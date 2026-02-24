@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36908.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw1", "hw1\hw1.csproj", "{3910B3CB-29E2-4FB7-A183-7ED1F61BF6A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Fundamentals_Library", "\\iscsi\profstud\BogatyryovaUI\Desktop\gfgh\OOP_Fundamentals_Library\OOP_Fundamentals_Library.csproj", "{414A59C8-66E7-74B1-506D-8CFA1629D0AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3910B3CB-29E2-4FB7-A183-7ED1F61BF6A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3910B3CB-29E2-4FB7-A183-7ED1F61BF6A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3910B3CB-29E2-4FB7-A183-7ED1F61BF6A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3910B3CB-29E2-4FB7-A183-7ED1F61BF6A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{414A59C8-66E7-74B1-506D-8CFA1629D0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{414A59C8-66E7-74B1-506D-8CFA1629D0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{414A59C8-66E7-74B1-506D-8CFA1629D0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{414A59C8-66E7-74B1-506D-8CFA1629D0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C36A2F85-19A0-4761-8246-9FF0B956A24B}
+	EndGlobalSection
+EndGlobal
